@@ -1,0 +1,155 @@
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:73:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:73:52: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:74:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:74:60: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:122:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:134:31: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:184:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:186:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:186:21: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:187:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:187:21: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:188:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:188:19: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:207:26: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:207:56: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:207:67: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:207:78: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:207:89: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:213:26: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:213:62: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:213:75: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:213:86: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:214:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:192:38: warning: Variable name `ha` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _ha
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:220:31: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:242:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:242:37: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:244:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:245:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:236:31: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:277:35: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:277:35: warning: Unused tactic linter: `simp_all` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:292:35: warning: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:292:35: warning: Unused tactic linter: `simp_all` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:323:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:319:35: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:346:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:346:18: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:347:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:347:30: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:329:41: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:391:6: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:391:30: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:425:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:425:19: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:427:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:427:19: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:438:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:438:20: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:442:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:442:21: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:444:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:444:21: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:446:12: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:446:39: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:448:12: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:448:24: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:430:30: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:453:47: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:451:36: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:496:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:499:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:521:41: warning: Variable name `hj` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hj
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:521:54: warning: Variable name `hk` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hk
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:546:15: warning: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:552:16: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:555:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:571:6: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:580:15: warning: `Set.mem_setOf_eq` has been deprecated: Use `Set.mem_ofPred_eq` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:586:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:594:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:669:36: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:786:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:827:26: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:829:26: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:832:26: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:834:26: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:821:36: warning: Variable name `hΔ` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hΔ
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:850:24: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:912:45: warning: Variable name `hg1` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hg1
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:946:6: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead
+/tmp/claude-1000/-home-joeyxyxyz--config-Claude-scratch-workspaces-7e77cf71-e1c7-4f02-afcd-2f47af5ebdd4-8f8b3000-2966-4980-93f3-540a0fefac31-scratch-2026-10-28-0cd942/57b442eb-644f-4a72-89f3-9426dd550654/scratchpad/mnf2-work/MNF_Injection_Ejection_proved.lean:946:17: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead
